@@ -1,5 +1,5 @@
-console.log("hello people")
+console.log("hello people and me")
 
 1+1
 
-console.log("goodbye people")
+console.log("goodbye people and hello world")
