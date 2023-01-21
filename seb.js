@@ -1,6 +1,7 @@
-console.log("hello people and me")
+// this will be merged!
 
-1+1
+console.log("hello people and me");
 
-console.log("goodbye people and thanks for all the fish")
+1 + 1;
 
+console.log("goodbye fish");
